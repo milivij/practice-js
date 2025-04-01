@@ -1,1 +1,1 @@
-# practice-js
+# practice_js_exam
